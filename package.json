@@ -1,6 +1,6 @@
 {
     "name": "bloop-react",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "React component that can render JSX in a popup window",
     "main": "./build/Bloop.js",
     "repository": {
@@ -29,5 +29,10 @@
         "react-dom": "^16.0.0",
         "webpack": "^4.5.0",
         "webpack-cli": "^3.2.1"
-    }
+    },
+    "keywords": [
+        "react",
+        "popup",
+        "component"
+    ]
 }
